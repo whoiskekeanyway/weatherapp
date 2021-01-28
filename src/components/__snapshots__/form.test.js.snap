@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="container h-100"
+>
+  <form>
+    <div>
+      
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col-md-3 offset-md-2"
+      >
+        <input
+          autoComplete="off"
+          className="form-control"
+          name="city"
+          placeholder="City"
+          type="text"
+        />
+      </div>
+      <div
+        className="col-md-3 mt-md-0 mt-2 text-md-left "
+      >
+        <button
+          className="btn btn-warning"
+        >
+          Get Weather
+        </button>
+      </div>
+    </div>
+  </form>
+</div>
+`;
